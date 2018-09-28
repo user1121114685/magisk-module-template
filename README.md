@@ -25,7 +25,9 @@ If you not live in China, please don't install.
 * [@酷安联盟少侠](https://www.coolapk.comhttp://www.coolapk.com/u/602894)
 emmmm，我自己也是需要感谢的。
 * [问题反馈Git Repository](https://github.com/Magisk-Modules-Repo/-OS-GPS-/issues/new)
-##V1.0.1 增加说明和反馈和英文解释
+
+
+
 
 ##V1.0.0 初始版本
 
