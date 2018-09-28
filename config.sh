@@ -23,7 +23,7 @@
 
 # 如果您需要启用 Magic Mount, 请把它设置为 true
 # 大多数模块都需要启用它
-AUTOMOUNT=true
+AUTOMOUNT=false
 
 # 如果您需要加载 system.prop, 请把它设置为 true
 PROPFILE=false
@@ -32,7 +32,7 @@ PROPFILE=false
 POSTFSDATA=false
 
 # 如果您需要执行 service 脚本, 请把它设置为 true
-LATESTARTSERVICE=false
+LATESTARTSERVICE=true
 
 ##########################################################################################
 # 安装信息
@@ -42,7 +42,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "        Magisk 模块示例        "
+  ui_print " 联盟少侠制作 "
   ui_print "*******************************"
 }
 
